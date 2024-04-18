@@ -1,2 +1,5 @@
-A simple weather app
-Built with HMTL, CSS and JavaScript
+# A simple weather app
+
+## Built with HTML, CSS and JavaScript
+
+![Screenshot](/images/Screen.png)
